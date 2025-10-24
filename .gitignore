@@ -1,0 +1,6 @@
+# Unity/IDE Temporary Files
+Temp/
+Library/
+.vs/
+*.user
+*.suo
