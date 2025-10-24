@@ -1,4 +1,4 @@
-# 🎮 Modding Developer Games Pack (Alpha)
+#  Modding Developer Games Pack (Alpha)
 
 Welcome to the **Alpha release** of the **Modding Developer Games Pack** — a toolkit built to make **game development easier, faster, and more enjoyable**.  
 
@@ -6,7 +6,7 @@ This pack is designed to simplify the process of creating and modifying games by
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Ready-to-use assets** optimized for performance and flexibility  
 - **Modular scripts** for fast prototyping and development  
@@ -17,7 +17,7 @@ This pack is designed to simplify the process of creating and modifying games by
 
 ---
 
-## 💡 Optimized For
+##  Optimized For
 
 - **Built-In Pipeline** – Unity 2020.3+ *(default)*  
 - **Universal Render Pipeline (URP)** – Unity 2020.3+ *(.unitypackage included)*  
@@ -25,7 +25,7 @@ This pack is designed to simplify the process of creating and modifying games by
 
 ---
 
-## 🛠️ Technical Notes
+##  Technical Notes
 
 This pack includes a variety of systems designed to improve development efficiency:
 - **Object Pooling System** for performance optimization  
@@ -38,21 +38,21 @@ Everything is designed with **expandability** and **optimization** in mind, help
 
 ---
 
-## 🙌 Special Thanks
+##  Special Thanks
 
 Massive thanks to **[VenCreations](#)** for assisting with the **3D modeling and environmental design edits**.  
 Your contribution helped bring this project to life!
 
 ---
 
-## 🧱 Project Status
+##  Project Status
 
-> 🧪 **Alpha Version** – currently under active development.  
+>  **Alpha Version** – currently under active development.  
 > Expect more updates soon including shader packs, AI systems, and improved asset management.
 
 ---
 
-## 📦 Installation
+##  Installation
 
 1. Clone or download the repository.  
 2. Open the project in **Unity 2020.3 or later**.  
@@ -62,7 +62,7 @@ Your contribution helped bring this project to life!
 
 ---
 
-## 🧠 Roadmap
+##  Roadmap
 
 - [ ] Add advanced shader library  
 - [ ] Implement AI-ready scripting system  
@@ -72,7 +72,7 @@ Your contribution helped bring this project to life!
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For questions, suggestions, or collaboration ideas, feel free to reach out!  
 **Developer:** Taha Imhamed  
@@ -81,11 +81,11 @@ For questions, suggestions, or collaboration ideas, feel free to reach out!
 
 ---
 
-### 🔧 Stay Tuned!
+###  Stay Tuned!
 
 This is just the beginning — more updates, tools, and features are on the way.  
 Your feedback means a lot, so feel free to contribute or share ideas!  
 
 ---
 
-🕹️ *Making game development simpler, one tool at a time.*
+*Making game development simpler, one tool at a time.*
